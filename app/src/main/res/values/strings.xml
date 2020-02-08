@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Entregable06022020v3</string>
+    <string name="tvUser">Usuario</string>
+    <string name="tvPassword">Contraseña</string>
+    <string name="btnLogin">Iniciar Sesión</string>
+    <string name="none"></string>
+    <string name="errorLogin">No se pudo iniciar sesión</string>
+    <string name="loginCancelado">Se canceló el inicio de sesión</string>
+    <string name="logout">Cerrar sesión</string>
+    <string name="revoke">Revocar</string>
+    <string name="errorLogout">Ha ocurrido un error</string>
+    <string name="facebook_app_id">193158392058780</string>
+    <string name="fb_login_protocol_scheme">fb193158392058780</string>
+    <string name="welcomeFb">Bienvenida(o)</string>
+    <string name="btnRegister">Crear cuenta</string>
+    <string name="tvNombreForm">Nombre</string>
+    <string name="tvEmailForm">Correo</string>
+    <string name="btnSubmit">Enviar</string>
+    <string name="usuarioNoEncontrado">Usuario no encontrado</string>
+    <string name="emptyFields">Alguno de los campos no se ha llenado</string>
+
+
+</resources>
